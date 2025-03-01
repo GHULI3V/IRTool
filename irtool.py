@@ -16,7 +16,6 @@ print("""\033[1;32;40m
 
 		******************************************************************
 		# First/Basic linux incident handling tool for Sysadmin or users #
-		# Github https://github.com/GULIY3V
 		******************************************************************
 
 \n""")
